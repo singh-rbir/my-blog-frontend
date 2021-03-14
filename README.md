@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## backend code here (node.js, express, mongodb): https://github.com/singh-rbir/my-blog-backend
+
 ## Available Scripts
 
 In the project directory, you can run:
