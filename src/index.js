@@ -1,7 +1,9 @@
+import 'whatwg-fetch' // to make the fetch api calls to work on Internet Explorer too
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Bootstrap from 'bootstrap/dist/js/bootstrap'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
