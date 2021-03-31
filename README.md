@@ -5,6 +5,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Backend code here (node.js, express, mongodb): 
 https://github.com/singh-rbir/my-blog-backend
 
+### Some screenshots:
+
+<img width="798" alt="Screen Shot 2021-03-31 at 3 45 39 PM" src="https://user-images.githubusercontent.com/43500177/113202932-63cb6f80-9239-11eb-94d3-68d239067993.png">
+
+<img width="714" alt="Screen Shot 2021-03-31 at 3 46 13 PM" src="https://user-images.githubusercontent.com/43500177/113202944-66c66000-9239-11eb-9151-97718679c9bb.png">
+
+<img width="719" alt="Screen Shot 2021-03-31 at 3 53 38 PM" src="https://user-images.githubusercontent.com/43500177/113202952-68902380-9239-11eb-9c9f-e62b2bc0f210.png">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
